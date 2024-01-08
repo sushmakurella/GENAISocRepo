@@ -12,12 +12,12 @@ with col1:
   st.write("red rose is symbol for love")
 with col2:
   #st.subheader("RainBow Rose")
-  st.markdown("<h4 style='color:#EF6262;'>RainBow rose</h4>", unsafe_allow_html=True)
+  st.markdown("<center><h4 style='color:#EF6262;'>RainBow rose</h4></center>", unsafe_allow_html=True)
   st.image("https://i0.wp.com/deepgreenpermaculture.com/wp-content/uploads/2018/07/fake-rainbow-rose.jpg?resize=640%2C640&ssl=1",width=200)
   st.write("rainbow rose's are very beutiful")
 with col3:
   #st.subheader("purple Rose")
-  st.markdown("<h4 style='color:#EF6262;'>Purple rose</h4>", unsafe_allow_html=True)
+  st.markdown("<center><h4 style='color:#EF6262;'>Purple rose</h4></center>", unsafe_allow_html=True)
   st.image("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXk74GVa0tdXcHmLUVZyGVURs4KfOR54c8gQ&usqp=CAU",width=200)
   st.write("purple rose's are awesome")
 # data =[1,2,3,4,5,6]
