@@ -19,7 +19,8 @@ with col2:
 with col3:
   #st.subheader("purple Rose")
   st.markdown("<center><h4 style='color:#EF6262;'>Purple rose</h4></center>", unsafe_allow_html=True)
-  st.image("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXk74GVa0tdXcHmLUVZyGVURs4KfOR54c8gQ&usqp=CAU",width=200)
+  #st.image("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXk74GVa0tdXcHmLUVZyGVURs4KfOR54c8gQ&usqp=CAU",width=200)
+  st.markdown('<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXk74GVa0tdXcHmLUVZyGVURs4KfOR54c8gQ&usqp=CAU" width=200 height=200>', unsafe_allow_html=True)
   st.write("purple rose's are awesome")
 # data =[1,2,3,4,5,6]
 # plt.plot(data)
