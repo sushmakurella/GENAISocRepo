@@ -21,4 +21,4 @@ with col3:
 # st.pyplot(plt)
 col1,col2,col3=st.columns(3)
 st.image("https://media1.tenor.com/m/5kJXpeqZbHQAAAAd/flower.gif")
-st.video("https://www.youtube.com/shorts/cCDxbNyxGQU")
+st.video("https://www.youtube.com/watch?v=fyqttjeM8Ps&pp=ygURcm9zZXMgY3VsdGl2YXRpb24%3D")
