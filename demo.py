@@ -3,10 +3,10 @@ import streamlit as st
 # import numpy as np
 st.set_page_config(page_title='Cats')
 #st.header("Types of roses")
-st.markdown("<h1 style='color:#2D9596;'>RED ROSES</h1>", unsafe_allow_html=True)
+st.markdown("<center><h1 style='color:#2D9596;'>RED ROSES</h1></center>", unsafe_allow_html=True)
 col1,col2,col3=st.columns(3)
 with col1:
-  st.markdown("<h4 style='color:#EF6262;'>RED ROSES</h4>", unsafe_allow_html=True)
+  st.markdown("<center><h4 style='color:#EF6262;'>RED ROSES</h4></center>", unsafe_allow_html=True)
   #st.subheader("red roses")
   st.image("https://4.imimg.com/data4/VI/SX/MY-36181633/red-rose.jpg",width=200)
   st.write("red rose is symbol for love")
