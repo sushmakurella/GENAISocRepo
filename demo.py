@@ -19,4 +19,6 @@ with col3:
 # data =[1,2,3,4,5,6]
 # plt.plot(data)
 # st.pyplot(plt)
+col1,col2,col3=st.columns(3)
 st.image("https://media1.tenor.com/m/5kJXpeqZbHQAAAAd/flower.gif")
+st.video("https://www.youtube.com/watch?v=k8pZRP16tNw")
