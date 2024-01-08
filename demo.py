@@ -14,7 +14,8 @@ with col1:
 with col2:
   #st.subheader("RainBow Rose")
   st.markdown("<center><h4 style='color:#EF6262;'>RainBow rose</h4></center>", unsafe_allow_html=True)
-  st.image("https://i0.wp.com/deepgreenpermaculture.com/wp-content/uploads/2018/07/fake-rainbow-rose.jpg?resize=640%2C640&ssl=1",width=200)
+  #st.image("https://i0.wp.com/deepgreenpermaculture.com/wp-content/uploads/2018/07/fake-rainbow-rose.jpg?resize=640%2C640&ssl=1",width=200)
+  st.markdown('<img src="https://i0.wp.com/deepgreenpermaculture.com/wp-content/uploads/2018/07/fake-rainbow-rose.jpg?resize=640%2C640&ssl=1" width=200 height=200>', unsafe_allow_html=True)
   st.write("rainbow rose's are very beutiful")
 with col3:
   #st.subheader("purple Rose")
