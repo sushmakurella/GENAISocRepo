@@ -19,4 +19,4 @@ with col3:
 # data =[1,2,3,4,5,6]
 # plt.plot(data)
 # st.pyplot(plt)
-st.image("https://i.pinimg.com/originals/ed/fd/ac/edfdacfe4b293ae757be3912ae7920b9.gif")
+st.image("https://media1.tenor.com/m/EqGmxpTA348AAAAC/tom-and-jerry-hug.gif")
