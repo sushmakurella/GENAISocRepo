@@ -4,7 +4,7 @@ st.header("Types of roses")
 col1,col2,col3=st.columns(3)
 with col1:
   st.subheader("red roses")
-  st.image("https://4.imimg.com/data4/VI/SX/MY-36181633/red-rose.jpg")
+  st.image("https://4.imimg.com/data4/VI/SX/MY-36181633/red-rose.jpg",width=200)
   st.write("red rose is symbol for love")
 with col2:
   st.subheader("RainBow Rose")
