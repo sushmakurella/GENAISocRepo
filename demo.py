@@ -1,4 +1,6 @@
 import streamlit as st
+import matplotlib.pyplot as plt
+import numpy as np
 st.set_page_config(page_title='Cats')
 st.header("Types of roses")
 col1,col2,col3=st.columns(3)
@@ -14,3 +16,6 @@ with col3:
   st.subheader("purple Rose")
   st.image("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXk74GVa0tdXcHmLUVZyGVURs4KfOR54c8gQ&usqp=CAU",width=200)
   st.write("purple rose's are awesome")
+data =[1,2,3,4,5,6]
+plt.plot(data)
+st.pyplot(plt)
