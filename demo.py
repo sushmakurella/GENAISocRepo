@@ -11,6 +11,6 @@ with col2:
   st.image("https://i0.wp.com/deepgreenpermaculture.com/wp-content/uploads/2018/07/fake-rainbow-rose.jpg?resize=640%2C640&ssl=1")
   st.write("rainbow rose's are very beutiful")
 with col3:
-  st.subheader("RainBow Rose")
-  st.image("https://i0.wp.com/deepgreenpermaculture.com/wp-content/uploads/2018/07/fake-rainbow-rose.jpg?resize=640%2C640&ssl=1")
-  st.write("rainbow rose's are very beutiful")
+  st.subheader("purple Rose")
+  st.image("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXk74GVa0tdXcHmLUVZyGVURs4KfOR54c8gQ&usqp=CAU")
+  st.write("purple rose's are awesome")
