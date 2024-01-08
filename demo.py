@@ -5,7 +5,8 @@ st.set_page_config(page_title='Cats')
 st.header("Types of roses")
 col1,col2,col3=st.columns(3)
 with col1:
-  st.subheader("red roses")
+  st.markdown("<h1 style='color:#2D9596;'>RED ROSES</h1>", unsafe_allow_html=True)
+  #st.subheader("red roses")
   st.image("https://4.imimg.com/data4/VI/SX/MY-36181633/red-rose.jpg",width=200)
   st.write("red rose is symbol for love")
 with col2:
