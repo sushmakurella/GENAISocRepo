@@ -1,4 +1,4 @@
-timport streamlit as st
+import streamlit as st
 st.set_page_config(page_title='Cats')
 st.header("Types of roses")
 col1,col2,col3=st.columns(3)
