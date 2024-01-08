@@ -20,5 +20,6 @@ with col3:
 # plt.plot(data)
 # st.pyplot(plt)
 col1,col2,col3=st.columns(3)
-st.image("https://media1.tenor.com/m/5kJXpeqZbHQAAAAd/flower.gif")
+st.image("https://www.eventstodayz.com/wp-content/uploads/2020/03/rose-love-gif.gif")
+ st.subheader("cultivation of roses")
 st.video("https://www.youtube.com/watch?v=fyqttjeM8Ps&pp=ygURcm9zZXMgY3VsdGl2YXRpb24%3D")
