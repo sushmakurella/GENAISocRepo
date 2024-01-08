@@ -8,7 +8,7 @@ col1,col2,col3=st.columns(3)
 with col1:
   st.markdown("<center><h4 style='color:#EF6262;'>RED ROSES</h4></center>", unsafe_allow_html=True)
   #st.subheader("red roses")
-  st.markdown("<img src="https://4.imimg.com/data4/VI/SX/MY-36181633/red-rose.jpg" width=200 height=200>")
+  st.markdown('<img src="https://4.imimg.com/data4/VI/SX/MY-36181633/red-rose.jpg" width=200 height=200>', unsafe_allow_html=True)
   #st.image("https://4.imimg.com/data4/VI/SX/MY-36181633/red-rose.jpg",width=200)
   st.write("red rose is symbol for love")
 with col2:
